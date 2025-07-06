@@ -1,0 +1,9 @@
+<!-- rounded_spinner.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Color de fondo -->
+    <solid android:color="@color/backgroung"/>
+
+    <!-- Radio de las esquinas -->
+    <corners android:radius="12dp"/>
+
+</shape>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TodoList</string>
+
+    <string-array name="array_opciones">
+        <item>Nunca</item>
+        <item>Una vez</item>
+        <item>Diario</item>
+        <item>Cada 3 dias</item>
+        <item>Semanalmente</item>
+        <item>Quincenalmente</item>
+        <item>Mensualmente</item>
+    </string-array>
+
+    <string-array name="array_options_days">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>
